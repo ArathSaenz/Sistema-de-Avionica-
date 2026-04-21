@@ -29,3 +29,5 @@ Worldmap & GPS: * GPS Recuperacion: Recibe las sentencias NMEA o coordenadas dir
 function world map: Traduce las coordenadas al formato que requiere el nodo de mapa.
 worldmap: Coloca un marcador en el mapa real para que sepas dónde cayó el cohete.
 Trayectoria del Cohete (Chart): Genera una gráfica de líneas (generalmente Altitud vs Tiempo) para visualizar el perfil de vuelo.
+
+En el archivo "Interfaz Avionica.json" esta listo para importarlo en tu computadora con Node-Red
